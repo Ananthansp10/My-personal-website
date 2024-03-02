@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+}
+.bg-red{
+    color: red;
+    font-family: 'Poppins', sans-serif;
+}
+
+.colour-white{
+    color: white;
+}
+.bg-black{
+    background-color: black;
+}
+.colour-white:hover{
+    color: red;
+    border-bottom: 1px solid;
+}
+.banner-section{
+    background-image: url(../public/images/banner\ images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-position: center;
+}
+.change-colour:hover{
+    color: blue;
+    
+}
+.text-white .para{
+  font-family: 'Poppins', sans-serif;
+  font-size: medium;
+}
+.bg-black{
+    background-color: black;
+}
+.skills .col-sm-12{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.service{
+    background-image: url(../public/images/service\ image.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.service .col-md-12{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-size: cover;
+}
+.service .col-lg-6{
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-size: cover;
+}
+.icons{
+    font-size:larger;
+}
+.icons:hover{
+    font-size:x-large;
+}
+.icon{
+    color: white;
+    text-decoration: none;
+}
+
+
+
