@@ -10,7 +10,7 @@ function Service() {
                     <div className="row">
                         <div className="col-sm-12 col-md-6 col-lg-6 mt-4">
                             <Card style={{ width: '100%',height:'38rem'}}>
-                                <Card.Img variant="top" src="./images/webdesign-\ image.jpg" />
+                                <Card.Img variant="top" src="./images/webdesign- image.jpg" />
                                 <Card.Body>
                                     <Card.Title>Front-End <span className='bg-red'>Development</span></Card.Title>
                                     <Card.Text>
@@ -21,7 +21,7 @@ function Service() {
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-6 mt-4">
                             <Card style={{ width: '100%',height:'38rem'}}>
-                                <Card.Img variant="top" src="./images/webdevelopment-\ image.jpg" />
+                                <Card.Img variant="top" src="./images/webdevelopment- image.jpg" />
                                 <Card.Body>
                                     <Card.Title>Back-End <span className='bg-red'>Development</span></Card.Title>
                                     <Card.Text>
