@@ -13,7 +13,7 @@ function About() {
             </div>
             <div className="col-12 col-md-6  mx-auto mt-2">
               <div className="profile-image ms-auto">
-                <img src='./images/profile-picture.jpg' className='rounded-circle' width="300px" height="300px" alt="profile" />
+                <img src='/images/profile-picture.jpg' className='rounded-circle' width="300px" height="300px" alt="profile" />
               </div>
             </div>
           </div>
