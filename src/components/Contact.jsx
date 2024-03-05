@@ -27,6 +27,7 @@ function Contact() {
                   <Form.Control as="textarea" rows={3} placeholder='Enter your message' />
                 </Form.Group>
               </Form>
+              <button className='btn btn-primary mb-3'>Submit</button>
             </div>
           </div>
         </div>
