@@ -4,7 +4,7 @@ import { Navbar, Nav, Container } from 'react-bootstrap'
 function Header() {
   return (
     <div>
-      <Navbar expand="lg" className='bg-black' data-bs-theme="dark" style={{position:'fixed',width:'100%',zIndex:'1'}}>
+      <Navbar expand="lg" collapseOnSelect className='bg-black' data-bs-theme="dark" style={{position:'fixed',width:'100%',zIndex:'1'}}>
         <Container>
           <Navbar.Brand href="#home">Ananthan <span className='bg-red'>SP</span></Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
